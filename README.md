@@ -4,3 +4,4 @@ Um teste da IDE de Portugol.
 
 Arquivos e Funções do Algoritimo:
 1. Teste média aritimética. (Média de vendas de um vendedor)
+2. Teste de condicional. (Se não foi atingido, exiba uma mensagem ao vendedor)
