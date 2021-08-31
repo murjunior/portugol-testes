@@ -1,3 +1,7 @@
+//Função: Cálculo da média aritimética de vendas.
+//Autor: Murilo Junior
+//Feito em: 08/21
+
 programa
 {
 	
