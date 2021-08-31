@@ -1,4 +1,4 @@
-# portugol-testes
+# Portugol (Testes)
 Um teste da IDE de Portugol.
 <br>Disponível em: https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
 
